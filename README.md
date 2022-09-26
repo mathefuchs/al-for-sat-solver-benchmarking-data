@@ -10,4 +10,5 @@ The paper source and code is available in a [separate repository](https://github
 ## Setup
 
 * Clone this repository and the code repository in the same directory.
-* Further setup steps included in the code repository's read-me.
+* Initialize submodules with `git submodule update --init --recursive`.
+* Further setup steps included in the [code repository's read-me](https://github.com/mathefuchs/al-for-sat-solver-benchmarking).
